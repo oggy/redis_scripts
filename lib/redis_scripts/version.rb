@@ -1,4 +1,4 @@
-module RedisScripts
+class RedisScripts
   VERSION = [0, 0, 0]
 
   class << VERSION
