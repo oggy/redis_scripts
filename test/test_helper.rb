@@ -3,7 +3,7 @@ Bundler.require(:test)
 
 $:.unshift "#{ROOT}/lib"
 require 'redis_scripts'
-require 'minitest/spec'
+require 'minitest/autorun'
 require 'temporaries'
 
 require 'yaml'
