@@ -1,3 +1,7 @@
+== LATEST
+
+* Allow any 3.x release of the redis gem.
+
 == 0.0.1 2013-01-21
 
- * Hi.
+* Hi.
